@@ -1,7 +1,3 @@
-Thanks for sharing that detailed overview of **Strands Agents SDK**! Let me summarize and explain it in a **more concise and digestible manner**, highlighting key points and next steps:
-
----
-
 ## 🌟 **What is Strands Agents SDK?**
 
 Strands Agents is a **lightweight, code-first Python framework** for building AI agents. It simplifies agent development by leveraging the reasoning, planning, and tool-use capabilities of **modern large language models (LLMs)**.
@@ -82,13 +78,3 @@ The **agentic loop** in Strands:
 ✅ **Explore [Example Built-in Tools](https://strands.agents/docs/tools)** to leverage advanced functionality.
 ✅ **Try the [Agent Builder](https://strands.agents/docs/builder)** to generate your own tools and agents.
 ✅ **Join the [GitHub](https://github.com/strands-agents)** and community discussions.
-
----
-
-Would you like me to:
-
-* 📄 **Write a detailed example** with custom tools?
-* ⚙️ **Show how to configure a different model provider (e.g., Anthropic, Ollama)?**
-* 📈 **Create a diagram of the agentic loop?**
-* 🏗️ **Build a multi-agent example?**
-  Let me know! 😊
